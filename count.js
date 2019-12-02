@@ -2,6 +2,6 @@
 
 let myAge = 31;
 
-function count() {
+function count(myage) {
     console.log(myAge);
 }
