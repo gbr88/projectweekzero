@@ -1,7 +1,9 @@
 'use strict';
 
-function greet (){
-    console.log('Krisztina Nagy');
+let name = "Krisztina Nagy"
+
+function greet (name){
+    console.log(name);
 }
 
-greet();
+greet(name);
