@@ -1,5 +1,7 @@
 'use strict';
 
-let cheer = () => {
-  console.log('LazyFox');
+let teamName = 'LazyFox';
+
+let cheer = (input) => {
+  console.log(input);
 }
