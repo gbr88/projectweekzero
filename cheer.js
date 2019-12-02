@@ -2,8 +2,8 @@
 
 let teamName = 'LazyFox';
 
-let cheer = (input, input2) => {
-    console.log(input, input2);
+let cheer = (input) => {
+    console.log("Cheer for the " + input);
 }
 
-cheer('javascript');
+cheer(teamName);

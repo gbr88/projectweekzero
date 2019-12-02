@@ -5,6 +5,7 @@ let myMonth = 4;
 
 function count() {
     console.log(`Counting the countless ${myMonth}`);
+
 }
 
-count();
+count(myAge, myMonth);
