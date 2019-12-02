@@ -2,8 +2,8 @@
 
 let name = "Greetings"
 
-function greet (name){
-    console.log(name);
+function greet(name) {
+    console.log('Greetings for the' + name);
 }
 
 greet(name);
